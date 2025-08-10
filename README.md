@@ -8,4 +8,4 @@ Goal: Predict whether a customer will churn (leave) based on historical data.
 ✅ Feature Engineering.
 ✅ Train a Machine Learning Model.
 ✅ Evaluate Performance.
-✅ Visualize Results
+✅ Visualize Results.
