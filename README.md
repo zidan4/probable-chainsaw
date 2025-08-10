@@ -7,5 +7,5 @@ Goal: Predict whether a customer will churn (leave) based on historical data.
 ✅ Exploratory Data Analysis (EDA).
 ✅ Feature Engineering.
 ✅ Train a Machine Learning Model.
-✅ Evaluate Performance
+✅ Evaluate Performance.
 ✅ Visualize Results
